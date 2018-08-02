@@ -1,2 +1,2 @@
 # docker-opendj
-Repositorio de docker para nodo de OpenDJ
+Repositorio para Dockerfile para servidor de OpenDJ
