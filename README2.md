@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ForgeRock OpenDJ Docker image
 
 Listens on 389/636/4444/8989
@@ -98,3 +99,7 @@ A copy of the /opt/opendj/data/config/ directory should also be saved as it cont
 The run.sh will call boostrap/replicate.sh if DJ_MASTER_SERVER is set. The basic idea is that all servers
 replicate to a master. This is a very simple strategy that works for very small OpenDJ clusters.
 
+=======
+# docker-opendj
+Repositorio para Dockerfile para servidor de OpenDJ
+>>>>>>> db63b552421012ab3f89eff1856cd1d2c7cfa522
